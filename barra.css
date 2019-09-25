@@ -1,0 +1,44 @@
+
+
+button{
+  background: #F08080;
+  font-size: 30px;
+}
+
+img{
+  float: 50%;
+}
+
+.flor{
+  float:right;
+  padding: 30px;
+}
+
+h2{
+  font-family: serif;
+
+}
+.moda{
+  box-sizing: border-box;
+float: right;
+margin: 5px;
+padding-left: 30px;
+
+
+
+
+}
+#varios{
+  font-size: 20px;
+}
+#texto{
+       box-sizing: border-box;
+       padding-left: 50px;
+
+}
+
+.boton{
+  background: #F08080;
+  border-radius: 5px;
+  color: #494747;
+}
