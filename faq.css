@@ -1,0 +1,58 @@
+.faq  {
+width: 100%;
+margin-top: 86px;
+  text-align: center;
+  background-color: #FFF4F1;
+padding: 50px;
+  text-decoration: none;
+
+}
+.perfil{
+  width: 120px;
+  height: 70px;
+  margin-left: 40px;
+  float: right;
+  border-radius: 40px;
+}
+.nav-item{
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-bottom: 20px;
+  font-family: serif;
+    color: #C8C6C8;
+}
+.nav-link{
+  color: #C8C6C8;
+
+}
+.mnc{
+  color: #C8C6C8;
+  margin-left: 45px;
+  font-family: serif;
+}
+
+.h2{
+font-family: serif;
+  font-size: 30px;
+  color: #C8C6C8;
+  text-decoration: underline;
+}
+.titulo{
+margin-top: 25px;
+margin-bottom: 25px;
+  font-size: 45px;
+  font-family: serif;
+  color: #C8C6C8;
+  text-align: center;
+}
+.listas{
+  list-style: none;
+  line-height: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.preg{
+  font-family: serif;
+  text-decoration: none;
+  color: #C8C6C8;
+}
